@@ -44,5 +44,21 @@ Forecast accuracy depends on data availability, forecast publication timing, tim
 ## Project Status
 Minimum Viable Product (MVP).
 
+## Live Demo
+
+[Open Wind Procurement Intelligence](https://wind-procurement-intelligence-seven.vercel.app/)
+
+## Source Code
+
+[GitHub Repository](https://github.com/Lucky032/wind-procurement-intelligence)
+
+## Backend API
+
+[Backend Health Check](https://wind-procurement-intelligence-96cc.onrender.com/api/health)
+
+## AI Tools Disclosure
+
+AI tools were used to assist with application development and documentation.
+
 ## Author
 Lucky Karnam
